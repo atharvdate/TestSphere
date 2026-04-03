@@ -108,11 +108,11 @@ cd TestSphere
 
 2. Configure Database
 
-Run SETUP_DATABASE.sql
+   Run SETUP_DATABASE.sql
 
 3. Add API Key
 
-Set OPENROUTER_API_KEY
+   Set OPENROUTER_API_KEY
 
 4. Run on Tomcat
 
