@@ -103,8 +103,8 @@ External AI API (OpenRouter)
 
 1. Clone repository
 
-git clone https://github.com/atharvdate/TestSphere.git
-cd TestSphere
+   git clone https://github.com/atharvdate/TestSphere.git
+   cd TestSphere
 
 2. Configure Database
 
